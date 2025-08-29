@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "<h1 align=\"center\">📝 MERN Stack Note Taking App ✨</h1>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-arunkr/NoteBoard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/im-arunkr/NoteBoard/issues"
+  },
+  "homepage": "https://github.com/im-arunkr/NoteBoard#readme"
 }
